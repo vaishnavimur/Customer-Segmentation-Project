@@ -1,6 +1,6 @@
-#Customer Segmentation Project
+Customer Segmentation Project
 
-##Project Overview
+Project Overview
 
 This project focuses on customer segmentation using machine learning techniques. It analyzes customer data and groups customers into different segments based on their purchasing behavior and spending patterns, helping businesses improve marketing strategies and customer engagement.
 
